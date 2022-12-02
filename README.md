@@ -1,9 +1,9 @@
 # EC-INTEGRA
 ![176a12e4-7bcb-4015-8b15-6ab9d2d9bff5](https://user-images.githubusercontent.com/116355531/197339438-c765dd42-b22d-4365-b96d-79710abbd990.jpg)
 # Авторы
-1. Басан Елена Сергеевна, контакты: ebasan@sfedu.ru, https://github.com/lennylenny161
+1. [Басан Елена Сергеевна](https://github.com/lennylenny161), контакты: ebasan@sfedu.ru
 2. Басан Александр Сергеевич, контакты: deb@ec-integra.ru
-3. Могильный Антон Богданович, контакты: mogilnyy@sfedu.ru, https://github.com/cardanol
+3. [Могильный Антон Богданович](https://github.com/cardanol), контакты: mogilnyy@sfedu.ru
 # Описание
 Search-Module - это модуль, содержащий в себе полезные функции для обработки естественного языка. Целью обработки является приведение слов к определенным формам,
 обеспечивающим корректное использование слова для поиска однокоренных слов или слов, схожих по смыслу
